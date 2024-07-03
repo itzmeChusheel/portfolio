@@ -59,7 +59,7 @@ nav{
     display: flex;
     height: 88%;
     flex-direction: column;
-    background-image: url('gallery/whatsappbackground.png');
+    background-image: url('gallery/whatsappbackground.jpg');
     align-items: flex-end;
     position: relative;
     -ms-overflow-style: none; 
