@@ -60,7 +60,7 @@ nav{
     height: 88%;
     flex-direction: column;
     background-image: url('gallery/whatsappbackground.jpg');
-    background-size: cover;
+    background-size: contain;
     align-items: flex-end;
     position: relative;
     -ms-overflow-style: none; 
